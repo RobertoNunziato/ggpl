@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4190"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="736.25"
+   height="600"
+   viewBox="0 0 736.25 600"
+   sodipodi:docname="planimetria.svg">
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="planimetria"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f90b0b;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 134.50251,18.816333 223.34058,0 0,161.070907 347.04967,0 0,66.42099 16.60525,0 0,63.9302 -16.60525,0 0,201.75376 -137.82355,0 0,-52.30653 -122.04857,0 0,52.30653 -139.48408,0 0,-157.74985 -71.40257,0 0,69.74204 -207.565594,0 0,-243.26688 106.273584,0 z"
+       id="path4216"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
