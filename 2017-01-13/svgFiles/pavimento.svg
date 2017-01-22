@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4171"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="600"
+   height="572"
+   viewBox="0 0 600 572"
+   sodipodi:docname="pavimento.svg">
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="pavimento"
+     style="display:inline">
+    <rect
+       style="fill:#3215ea;fill-opacity:1;stroke:#2df534;stroke-width:1.0071106;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4503"
+       width="538.30463"
+       height="172.89297"
+       x="45.701984"
+       y="261.71216" />
+    <rect
+       style="fill:#3215ea;fill-opacity:1;stroke:#2df534;stroke-width:1.05908144;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4505"
+       width="126.53666"
+       height="154.59784"
+       x="457.47638"
+       y="122.56145" />
+    <rect
+       style="fill:#3215ea;fill-opacity:1;stroke:#2df534;stroke-width:1.05026746;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4509"
+       width="189.31143"
+       height="153.33347"
+       x="45.769814"
+       y="120.9613" />
+  </g>
+</svg>
