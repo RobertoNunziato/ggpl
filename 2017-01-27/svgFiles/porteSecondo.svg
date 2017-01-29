@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4171"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="600"
+   height="572"
+   viewBox="0 0 600 572"
+   sodipodi:docname="porteSecondo.svg">
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="porte"
+     style="display:inline">
+    <rect
+       y="296.55661"
+       x="192.85632"
+       height="19.209503"
+       width="38.419006"
+       id="rect4268"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4270"
+       width="38.419006"
+       height="19.209503"
+       x="64.856323"
+       y="296.55661" />
+    <rect
+       y="252.55661"
+       x="182.85632"
+       height="19.209503"
+       width="38.419006"
+       id="rect4272"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4274"
+       width="38.419006"
+       height="19.209503"
+       x="270.85632"
+       y="252.55661" />
+    <rect
+       y="252.55661"
+       x="368.85632"
+       height="19.209503"
+       width="38.419006"
+       id="rect4276"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4278"
+       width="22.868456"
+       height="29.271624"
+       x="225.94034"
+       y="132.01091" />
+    <rect
+       y="154.01091"
+       x="443.94034"
+       height="29.271624"
+       width="22.868456"
+       id="rect4280"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#0841fc;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
